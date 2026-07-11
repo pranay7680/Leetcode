@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/pranay7680/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/pranay7680/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/pranay7680/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pranay7680/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pranay7680/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/pranay7680/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
