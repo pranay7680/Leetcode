@@ -5,9 +5,7 @@ class Solution {
         for(int i:nums){
             if(i==1){
                 c++;
-                if(window<c){
-                    window=c;
-                }
+               window=Math.max(window,c); 
             }
             else{
                 c=0;
