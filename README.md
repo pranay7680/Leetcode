@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/pranay7680/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/pranay7680/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranay7680/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranay7680/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
@@ -20,6 +21,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/pranay7680/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/pranay7680/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
