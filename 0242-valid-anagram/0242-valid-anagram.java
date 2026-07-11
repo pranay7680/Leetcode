@@ -1,11 +1,4 @@
 class Solution {
-    static 
-    {
-        for (int i = 0; i < 500; i++) 
-        {
-            isAnagram("a", "");
-        }
-    }
     public static boolean isAnagram(String s, String t) {
         int[] freq = new int[26];
         int n = s.length(),m=t.length();
