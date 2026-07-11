@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pranay7680/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pranay7680/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
