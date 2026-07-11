@@ -18,6 +18,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pranay7680/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/pranay7680/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/pranay7680/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/pranay7680/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +82,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pranay7680/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
