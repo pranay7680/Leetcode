@@ -104,6 +104,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/pranay7680/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Linked List
