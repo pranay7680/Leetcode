@@ -1,7 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
         StringBuilder res=new StringBuilder();
-        boolean flag=false;
         int i=s.length()-1;
         while(i>=0){
             while(i>=0 && s.charAt(i)==' '){
