@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/pranay7680/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/pranay7680/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pranay7680/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
@@ -36,6 +37,7 @@
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/pranay7680/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@
 | [0169-majority-element](https://github.com/pranay7680/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/pranay7680/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
