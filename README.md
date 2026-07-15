@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/pranay7680/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -127,6 +128,7 @@
 | [0069-sqrtx](https://github.com/pranay7680/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pranay7680/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/pranay7680/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranay7680/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
