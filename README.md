@@ -26,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranay7680/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/pranay7680/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -70,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0796-rotate-string](https://github.com/pranay7680/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
