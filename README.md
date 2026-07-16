@@ -71,6 +71,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/pranay7680/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/pranay7680/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0771-jewels-and-stones](https://github.com/pranay7680/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/pranay7680/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 ## Trie
@@ -109,6 +110,7 @@
 | [0169-majority-element](https://github.com/pranay7680/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/pranay7680/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0771-jewels-and-stones](https://github.com/pranay7680/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
