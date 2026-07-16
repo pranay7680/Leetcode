@@ -53,6 +53,7 @@
 | [0053-maximum-subarray](https://github.com/pranay7680/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranay7680/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/pranay7680/Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@
 | [0069-sqrtx](https://github.com/pranay7680/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1025-divisor-game](https://github.com/pranay7680/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pranay7680/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/pranay7680/Leetcode/tree/main/2652-sum-multiples/) | Easy |
@@ -164,4 +166,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay7680/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/pranay7680/Leetcode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/pranay7680/Leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
