@@ -19,16 +19,12 @@ class Solution {
         return sum;
     }
     private long GCD(long a,long b){
-        long max=Math.max(a,b);
-        long min=Math.min(a,b);
-        if(min==0){
-            return max;
+        while(b != 0) {
+            long temp = a % b;
+            a = b;
+            b = temp;
         }
-        long rem=max%min;
-        if(rem==0){
-            return min;
-        }
-        return GCD(rem,min);
+        return a;
     }
     public long gcdSum(int[] nums) {
         return prfgcd(nums);
