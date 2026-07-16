@@ -149,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/pranay7680/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/pranay7680/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/pranay7680/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pranay7680/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
