@@ -1,12 +1,17 @@
 class Solution {
     public boolean areOccurrencesEqual(String s) {
-        HashMap<Character,Integer> m=new HashMap<>();
-        HashSet<Integer> set = new HashSet<>();
+        int arr[] = new int[26];
         for(int i=0;i<s.length();i++){
-            m.put(s.charAt(i),m.getOrDefault(s.charAt(i),0)+1);
+            char ch=s.charAt(i);
+            arr[ch-'a']++;
         }
-        for(Integer i:m.values()) set.add(i);
-        if(set.size()==1) return true;
-        return false;
+        int c=arr[s.charAt(0)-'a'];
+        for(int i:arr){
+            if(i!=0 && i!=c){
+                return false;
+            }
+        }
+        return true;
+        
     }
 }
