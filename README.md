@@ -29,6 +29,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranay7680/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranay7680/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/pranay7680/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -147,6 +148,7 @@
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/pranay7680/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranay7680/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/pranay7680/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/pranay7680/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranay7680/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -183,6 +185,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranay7680/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay7680/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranay7680/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
