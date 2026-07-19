@@ -104,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/pranay7680/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/pranay7680/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/pranay7680/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranay7680/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -148,6 +149,7 @@
 | [0009-palindrome-number](https://github.com/pranay7680/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/pranay7680/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/pranay7680/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/pranay7680/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/pranay7680/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/pranay7680/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -193,6 +195,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/pranay7680/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranay7680/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/pranay7680/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay7680/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
