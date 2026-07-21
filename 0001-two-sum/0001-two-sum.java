@@ -9,5 +9,5 @@ class Solution {
         hm.put(nums[i],i);
        }
         return null;
-    }
+}
 }
