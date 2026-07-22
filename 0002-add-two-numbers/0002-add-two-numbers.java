@@ -14,20 +14,21 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode temp = dummy;
         while(l1!=null || l2!=null || c!=0){
-            int s = 0;
+            int a=0;
+            int b=0;
             if(l1!=null){
-                s = l1.val;
+                a = l1.val;
                 l1 = l1.next;
             }
             if(l2!=null){
-                s += l2.val;
+                b = l2.val;
                 l2 = l2.next;
             }
-            s += c;
+            int s = a+b+c;
             int r =s%10;
+            c = s/10;
             temp.next = new ListNode(r);
             temp = temp.next;
-           c = s/10;
         }
         return dummy.next;
     }
