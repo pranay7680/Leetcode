@@ -92,6 +92,7 @@
 | [0796-rotate-string](https://github.com/pranay7680/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranay7680/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3110-score-of-a-string](https://github.com/pranay7680/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
