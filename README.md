@@ -33,6 +33,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranay7680/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pranay7680/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranay7680/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/pranay7680/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/pranay7680/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranay7680/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/pranay7680/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -126,6 +127,7 @@
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranay7680/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/pranay7680/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranay7680/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pranay7680/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranay7680/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/pranay7680/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
