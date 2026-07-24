@@ -93,6 +93,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/pranay7680/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranay7680/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranay7680/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/pranay7680/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@
 | [2469-convert-the-temperature](https://github.com/pranay7680/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/pranay7680/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranay7680/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/pranay7680/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay7680/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranay7680/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
